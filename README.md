@@ -10,6 +10,6 @@ Each song can be played once each game, and the console shows the song's name if
 The top 5 scores are saved in the leaderboard, and the leaderboard is printed in the end of  each game.
 Only the highest score of each user counts.
 <br/><br/>
-Single question function is in Music.java.
+The single question functions are in Music.java.
 Leaderboard functions are in Leaderboard.java.
 The game as a whole is in Game.java.
