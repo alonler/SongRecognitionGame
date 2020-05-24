@@ -9,3 +9,7 @@ The game is played until the user gets 3 wrong answers or all the songs from the
 Each song can be played once each game, and the console shows the song's name if the user get the wrong answer.
 The top 5 scores are saved in the leaderboard, and the leaderboard is printed in the end of  each game.
 Only the highest score of each user counts.
+<br/><br/>
+Single question function is in Music.java file.
+Leaderboard functions are in Leaderboard.java file.
+The game as a whole is in Game.java file.
